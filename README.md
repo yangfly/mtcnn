@@ -16,6 +16,6 @@ make test
 
 ### 3. Todo
 - [x] Debug
-BBox initalization: [code](https://github.com/yangfly/mtcnn/src/core/pybing.cpp#L386)
+BBox initalization: [code](https://github.com/yangfly/mtcnn/master/src/core/pybing.cpp#L386)
 Reference: [Blog](https://blog.csdn.net/jxlczjp77/article/details/1783456)
 
